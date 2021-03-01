@@ -25,7 +25,7 @@ PolyHatch is an AutoCAD script written in _lisp_ language to automate a basic ph
 
 ![image](https://user-images.githubusercontent.com/3451891/109457912-a6b6df00-7a10-11eb-807d-eec2ca0723fa.png)
 
-6- Finished! Here only one closed object was detected in the selection within _Layer1_.
+6- Finished! Here only one closed object was detected in the selection within _Layer1_ (magenta:Layer1, green:Layer2, orange:Layer3 for this example drawing).
 
 ![image](https://user-images.githubusercontent.com/3451891/109457832-7a02c780-7a10-11eb-8af3-9413d35d4c7e.png)
 
