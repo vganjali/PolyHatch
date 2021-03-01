@@ -52,4 +52,4 @@ Calling `polyhatch` command will result in all features being properly hatched (
 ![image](https://user-images.githubusercontent.com/3451891/109457725-41fb8480-7a10-11eb-81aa-b762eec452d6.png)
 
 ## More features..
-Feel free to contribute and add other options that might help more people.
+Feel free to contribute and add new features that might help more people.
