@@ -19,7 +19,7 @@ PolyHatch is an AutoCAD script written in _lisp_ language to automate a basic ph
 
 4- Make a selection
 
-![image](https://user-images.githubusercontent.com/3451891/109457934-afa7b080-7a10-11eb-94c7-01425d00c540.png)
+![image](https://user-images.githubusercontent.com/3451891/109458865-8556f280-7a12-11eb-8f29-496704ea5d32.png)
 
 5- Enter a name for the group made for all hatches.
 
