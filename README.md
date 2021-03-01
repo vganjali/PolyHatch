@@ -29,7 +29,7 @@ PolyHatch is an AutoCAD script written in _lisp_ language to automate a basic ph
 
 ![image](https://user-images.githubusercontent.com/3451891/109457832-7a02c780-7a10-11eb-8af3-9413d35d4c7e.png)
 
-\**Note that circle is a different type of object and not considered during hatching process.*
+\**Note that circle is not a polyline object and was not considered during hatching process.*
 
 ## Work around with open objects
 You can use CAD techniques to make closed polylines. Here I mention two of them:
